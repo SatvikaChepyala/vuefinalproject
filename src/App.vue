@@ -56,9 +56,13 @@ export default {
 
 body {
   font-family: 'Montserrat', sans-serif;
+<<<<<<< HEAD
   background-color:lightgrey;
 }
 
+=======
+}
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 .container {
   max-width: 400px;
   margin: 30px auto;
@@ -75,6 +79,9 @@ div{
 }
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 </style>
 

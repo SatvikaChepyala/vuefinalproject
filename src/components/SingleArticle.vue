@@ -18,15 +18,29 @@
 export default {
     name: 'SingleArticle',
     props: {
+<<<<<<< HEAD
    
         Article : Object
            }
+=======
+    //     Article :{
+    //         type: Array,
+             
+    //   required: true,
+    //     }
+        Article : Array
+    }
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 }
 </script>
 
 <style scoped>
 h2 {
+<<<<<<< HEAD
     margin: 5px;
+=======
+    margin: 2px;
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 }
 
 .Single-Article {
@@ -40,7 +54,10 @@ h2 {
 
 .Article-info {
     margin: 5px 0;
+<<<<<<< HEAD
     font-size: 14px;
+=======
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 }
 
 .Article-link {
@@ -53,5 +70,8 @@ h2 {
 .Article-link:hover {
     text-decoration: underline;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 </style>

@@ -24,7 +24,10 @@ export default {
 }
 </script>
 <style scoped>
+<<<<<<< HEAD
 
+=======
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 .Article-box {
     display: flex;
     flex-wrap: wrap;
@@ -33,8 +36,11 @@ export default {
 
 .Article-item {
     margin: 10px;
+<<<<<<< HEAD
     border: 5px solid;
     background-color:slategray;
+=======
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 }
 </style>
 

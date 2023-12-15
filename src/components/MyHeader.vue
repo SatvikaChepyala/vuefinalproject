@@ -16,6 +16,7 @@ export default {
 </script>
 <style scoped>
 div {
+<<<<<<< HEAD
 
   text-align: center;
   box-sizing: border-box;
@@ -23,5 +24,8 @@ div {
   padding: 0;
   border: 2px solid;
   background-color:  teal;
+=======
+  text-align: center;
+>>>>>>> af85d49e58efff452993c476d664324847973e88
 }
 </style>
